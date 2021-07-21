@@ -1,1 +1,18 @@
-{"name":"Homemade Icons AIO", "description":"This is Nzbcorz's Homemade Iconpack.", "icons":[{"name":"Icon-Name-1", "url":"https:\/\/raw.githubusercontent.com\/crossutility\/Quantumult-X\/master\/icon-samples\/cn.PNG"}, {"name":"Icon-Name-2", "url":"https:\/\/raw.githubusercontent.com\/crossutility\/Quantumult-X\/master\/icon-samples\/us.PNG"}, {"name":"Icon-Name-3", "url":"https:\/\/raw.githubusercontent.com\/crossutility\/Quantumult-X\/master\/icon-samples\/google.PNG"}]}
+{
+  "name": "Homemade Icons AIO",
+  "description": "This is Nzbcorz's Homemade Iconpack.",
+  "icons": [
+    {
+      "name": "ElementLite",
+      "url": "https://raw.githubusercontent.com/nzbcorz/Handmade-Icons/main/Quantumult%20X/Policy-Icons/ElementLite.png"
+    },
+    {
+      "name": "ImmTelecom",
+      "url": "https://raw.githubusercontent.com/nzbcorz/Handmade-Icons/main/Quantumult%20X/Policy-Icons/ImmTelecom.png"
+    },
+    {
+      "name": "Skicat",
+      "url": "https://raw.githubusercontent.com/nzbcorz/Handmade-Icons/main/Quantumult%20X/Policy-Icons/Skicat.png"
+    }
+  ]
+}
