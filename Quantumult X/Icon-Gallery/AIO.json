@@ -3,7 +3,7 @@
   "description": "This is Nzbcorz's Homemade Iconpack.",
   "icons": [
     {
-      "name": "ElementLite",
+      "name": "Element Lite",
       "url": "https://raw.githubusercontent.com/nzbcorz/Handmade-Icons/main/Quantumult%20X/Policy-Icons/ElementLite.png"
     },
     {
@@ -13,6 +13,10 @@
     {
       "name": "Skicat",
       "url": "https://raw.githubusercontent.com/nzbcorz/Handmade-Icons/main/Quantumult%20X/Policy-Icons/Skicat.png"
+    },
+    {
+      "name": "Skicat Snow",
+      "url": "https://raw.githubusercontent.com/nzbcorz/Handmade-Icons/main/Quantumult%20X/Policy-Icons/Skicat_Snow.png"
     }
   ]
 }
