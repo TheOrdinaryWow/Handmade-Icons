@@ -1,0 +1,26 @@
+{
+  "name": "𝗛𝗮𝗻𝗱𝗺𝗮𝗱𝗲 Icons",
+  "description": "This is Nzbcorz's Handmade Icon-pack for Quantumult X.",
+  "icons": [
+    {
+      "name": "Element Lite",
+      "url": "https://raw.githubusercontent.com/nzbcorz/Handmade-Icons/main/Quantumult%20X/Policy-Icons/ElementLite.png"
+    },
+    {
+      "name": "ExFlux",
+      "url": "https://raw.githubusercontent.com/nzbcorz/Handmade-Icons/main/Quantumult%20X/Policy-Icons/ExFlux.png"
+    },
+    {
+      "name": "ImmTelecom",
+      "url": "https://raw.githubusercontent.com/nzbcorz/Handmade-Icons/main/Quantumult%20X/Policy-Icons/ImmTelecom.png"
+    },
+    {
+      "name": "Skicat",
+      "url": "https://raw.githubusercontent.com/nzbcorz/Handmade-Icons/main/Quantumult%20X/Policy-Icons/Skicat_Original.png"
+    },
+    {
+      "name": "Skicat Snow",
+      "url": "https://raw.githubusercontent.com/nzbcorz/Handmade-Icons/main/Quantumult%20X/Policy-Icons/Skicat_Snow.png"
+    }
+  ]
+}
